@@ -1,4 +1,4 @@
 | Project | Description |
 | --- | --- |
-| telecoms | forecast of customer outflow |
+| [telecoms](ссылка) | forecast of customer outflow |
 
